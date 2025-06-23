@@ -1,5 +1,7 @@
 # ****SKILLCRAFT TECHNOLOGIES INTERNSHIP****
 
 🌲Task 03 - Decision Tree
-Tools Used - PowerBI
-Dataset - https://archive.ics.uci.edu/dataset/222/bank+marketing
+
+*Tools Used - PowerBI
+
+*Dataset - https://archive.ics.uci.edu/dataset/222/bank+marketing
